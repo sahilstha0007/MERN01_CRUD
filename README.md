@@ -31,6 +31,5 @@ npm run start
 ```
 
 ### I'll see you in the next one! 🚀
-# CRUD_mern01
 # MERN01_CRUD
 # MERN01_CRUD
